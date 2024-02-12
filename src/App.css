@@ -1,0 +1,52 @@
+
+body{
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.main-container{
+  
+  margin-top: 20px;
+}
+.heading{
+  text-align: center;
+  color: orange;
+}
+
+
+input {
+  margin-top: 20px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid orange;
+  width: 30%;
+  background-color: aquamarine;
+  outline: none;
+  color: orange;
+  font-size: 20px;
+}
+button {
+  width: 70px;
+  background-color: orange;
+  margin-left: 10px;
+  height: 40px;
+  border-radius: 10px;
+}
+.list ul{
+  list-style: none;
+  margin-left: 28%;
+}
+li{
+  background-color: orange;
+  width: 45%;
+  height: 50px;
+  border-radius: 20px;
+  margin-top: 10px;
+
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+}
